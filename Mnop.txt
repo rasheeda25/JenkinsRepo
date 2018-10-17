@@ -1,0 +1,9 @@
+public class Mnop{
+public static void main(String args[])
+{
+	System.out.println("Main method in Mnop");
+	System.out.println("This is another message");
+	System.out.println("This is another another message");
+	
+}
+}
